@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Quartermaster (QMSTR)</title>
+    <link>qmstr.org/docs/</link>
+    <description>Recent content in Docs on Quartermaster (QMSTR)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="qmstr.org/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Imprint</title>
+      <link>qmstr.org/docs/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>qmstr.org/docs/imprint/</guid>
+      <description>Legal Disclosure Quartermaster is a project of Endocode AG see Imprint. Quartermaster aims at becoming a Linux Foundation collaborative project.
+Indication of source for images and graphics  Compliance by Gregor Cresnar from the Noun Project is licensed under CC BY 3.0 Compliance report by Vignesh Nandha Kumar from the Noun Project is licensed under CC BY 3.0 Penguin by Delwar Hossain from the Noun Project is licensed under CC BY 3.</description>
+    </item>
+    
+  </channel>
+</rss>

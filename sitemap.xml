@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>qmstr.org/docs/imprint/</loc>
+  </url>
+  
+  <url>
+    <loc>qmstr.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>qmstr.org/docs/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>qmstr.org/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>qmstr.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
